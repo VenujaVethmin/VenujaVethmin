@@ -194,43 +194,34 @@ ATTRIBUTES:
 <div align="center">
 
 ## 📡 TRANSMISSION CHANNELS
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
-
 <br/>
-
 <div align="center">
   
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/venujavethmin">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E0E7FF&labelColor=1E1B4B&logoWidth=30" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:venujavethmin@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=E0E7FF&labelColor=1E1B4B&logoWidth=30" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://yourportfolio.com">
+  <a href="https://venuja-vethmin.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=google-chrome&logoColor=E0E7FF&labelColor=1E1B4B&logoWidth=30" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/VenujaVethmin">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=E0E7FF&labelColor=1E1B4B&logoWidth=30" height="40" />
   </a>
-
 </div>
-
 <br/>
 <br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-4ff1-b13f-f6b0a0ad1e8f.gif" width="700">
 </div>
-
 <br/>
-
-<div align="center">
 
 ### 🌟 Current Status
 
