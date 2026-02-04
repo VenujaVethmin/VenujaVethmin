@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,2,2,5,6,10&text=VENUJA%20VETHMIN&fontSize=80&fontColor=E0E7FF&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=FFFFFF&text=VENUJA%20VETHMIN&fontSize=80&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=55&descColor=000000" />
 </div>
 
 <div align="center">
