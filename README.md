@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=350&color=FFFFFF&text=VENUJA%20VETHMIN&fontSize=80&fontColor=000000&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=55&descColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0d1117&text=VENUJA%20VETHMIN&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=55&descColor=FFFFFF" />
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
