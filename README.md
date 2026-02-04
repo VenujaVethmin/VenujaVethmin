@@ -212,9 +212,7 @@ ATTRIBUTES:
     <img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=google-chrome&logoColor=E0E7FF&labelColor=1E1B4B&logoWidth=30" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/VenujaVethmin">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=E0E7FF&labelColor=1E1B4B&logoWidth=30" height="40" />
-  </a>
+ 
 </div>
 <br/>
 <br/>
